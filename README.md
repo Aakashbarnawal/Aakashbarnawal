@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Analysis](Machine learning)
 
-- 🌱 I’m currently learning **Power BI,Machine learning , and data analysis tools**
+- 🌱 I’m currently learning **Power BI,Machine learning , and data analytics**
 
 - 👯 I’m looking to collaborate on **Data Analyst projects**
 
