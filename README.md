@@ -81,7 +81,6 @@ An end-to-end predictive maintenance platform for CNC machines and 3D printers u
 - Interactive Streamlit monitoring dashboard
 - Automated testing and validation
 
-**Status:** 🟡 Ongoing
 
 ---
 
