@@ -110,26 +110,6 @@ A retrieval-augmented medical Q&A application that combines document retrieval, 
 - Cleaned and transformed raw datasets by handling missing values, duplicates, inconsistencies, and data-quality issues.
 - Performed exploratory data analysis and visualization to identify patterns, trends, and insights.
 
----
-
-## 💼 Experience
-
-### Data Analyst Intern — Elevance Skills
-
-Worked on data preparation, exploratory analysis, visualization, KPI analysis, and interactive dashboard development using the **PlayStore Revenue Analytics** dataset.
-
-**Focus:** Python • Pandas • Data Cleaning • EDA • Visualization • Power BI • SQL
-
----
-
-## 🎓 Education
-
-**KPR Institute of Engineering and Technology**  
-B.Tech — Artificial Intelligence & Machine Learning  
-2023 – Present | **CGPA: 7.3**
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
