@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on **Data Analyst projects**
 
 - 📫 How to reach me **barnawalaakash2004@gmail.com**
+-  📫 How to reach me **Portfolio :- **https://aakashbarnawal.github.io/Portfolio-/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
