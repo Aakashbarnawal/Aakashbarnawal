@@ -11,7 +11,7 @@ Currently focused on **Machine Learning, Generative AI, RAG systems, Computer Vi
 ## 🚀 What I'm Working On
 
 - 🔭 **RAG-SHML** — Final Year Project *(Ongoing)*
-- 🤖 **AI-Powered Predictive Maintenance System** for CNC machines & 3D printers *(Ongoing)*
+- 🤖 **AI-Powered Predictive Maintenance System** for CNC machines & 3D printers*
 - 👁️ **Real-Time FOD Detection System** using YOLOv8 and Computer Vision
 - 🧠 Building **RAG & LLM applications** with LangChain, embeddings and vector databases
 - 📊 Developing **data analytics and interactive dashboards** using Python and Power BI
