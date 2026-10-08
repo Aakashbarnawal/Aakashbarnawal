@@ -1,24 +1,167 @@
-<h1 align="center">Hi 👋, I'm AakashBarnawal</h1>
-<h3 align="center">"Passionate Data Analyst | Aspiring Machine Learning Enthusiast | Exploring Data, Building Models, Gaining Insights" 🚀📊</h3>
+# 👋 Hi, I'm Aakash Barnawal
 
-- 🔭 I’m currently working on [Data Analysis](Machine learning)
+### AI/ML Engineer | GenAI & RAG | Data Analytics
 
-- 🌱 I’m currently learning **Power BI,Machine learning , and data analytics**
+I’m a **B.Tech Artificial Intelligence & Machine Learning student** passionate about building practical AI systems, intelligent applications, and data-driven solutions.
 
-- 👯 I’m looking to collaborate on **Data Analyst projects**
+Currently focused on **Machine Learning, Generative AI, RAG systems, Computer Vision, Predictive Maintenance, and Data Analytics**.
 
-- 📫 How to reach me **barnawalaakash2004@gmail.com**
--  📫 How to reach me **Portfolio :- **https://aakashbarnawal.github.io/Portfolio-/**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/aakash_barnawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aakash_barnawal" height="30" width="40" /></a>
-<a href="https://twitter.com/aakashbarnawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakashbarnawal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aakash-barnawal-66aa27289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakash-barnawal-66aa27289/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/akash.barnawal.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akash.barnawal.923" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_be_a_comrade_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_be_a_comrade_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/swift_treat_73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/swift_treat_73" height="30" width="40" /></a>
+## 🚀 What I'm Working On
+
+- 🔭 **RAG-SHML** — Final Year Project *(Ongoing)*
+- 🤖 **AI-Powered Predictive Maintenance System** for CNC machines & 3D printers *(Ongoing)*
+- 👁️ **Real-Time FOD Detection System** using YOLOv8 and Computer Vision
+- 🧠 Building **RAG & LLM applications** with LangChain, embeddings and vector databases
+- 📊 Developing **data analytics and interactive dashboards** using Python and Power BI
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45"/>
+</p>
+
+**Machine Learning • Deep Learning • NLP • Computer Vision • YOLO • XGBoost • SHAP**
+
+### 🧠 Generative AI
+**LLMs • RAG • LangChain • Hugging Face • Embeddings • Vector Search**
+
+**Vector Databases:** Pinecone • Chroma • FAISS • Qdrant
+
+### 📊 Data & Analytics
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+</p>
+
+**Pandas • NumPy • Power BI • Plotly • Matplotlib • Seaborn • Excel • SQL**
+
+### ⚙️ Backend & Tools
+
+**FastAPI • Streamlit • REST APIs • PostgreSQL • MongoDB • Git • GitHub • Jupyter • VS Code**
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 RAG-SHML — Final Year Project
+**RAG • LLMs • Embeddings • Vector Search**
+
+Developing an intelligent retrieval-augmented system focused on knowledge-grounded responses using document processing, semantic retrieval, embeddings, and LLM-based generation.
+
+**Status:** 🟡 Ongoing
+
+---
+
+### ⚙️ AI-Powered Predictive Maintenance System
+**Python • XGBoost • SHAP • FastAPI • MongoDB Atlas • Streamlit • Plotly**
+
+An end-to-end predictive maintenance platform for CNC machines and 3D printers using machine telemetry and ML-based failure prediction.
+
+- XGBoost prediction pipeline
+- SHAP-based model explainability
+- Risk-based maintenance insights
+- FastAPI backend
+- MongoDB Atlas data layer
+- Interactive Streamlit monitoring dashboard
+- Automated testing and validation
+
+**Status:** 🟡 Ongoing
+
+---
+
+### 👁️ Real-Time FOD Detection System
+**Python • YOLOv8 • PyTorch • OpenCV**
+
+Computer vision system designed to detect Foreign Object Debris in airport environments.
+
+- YOLO-based object detection
+- Image preprocessing
+- Model training and evaluation
+- GPU-accelerated inference
+- Real-time monitoring approach
+
+---
+
+### 🩺 AI Medical Assistant
+**RAG • LangChain • Pinecone • Embeddings • Streamlit**
+
+A retrieval-augmented medical Q&A application that combines document retrieval, vector search, embeddings, and LLM-based response generation.
+
+---
+
+### 📊 Data Cleaning & Analysis — Internship Project
+**Python • Pandas • NumPy • Matplotlib • Seaborn • SQL**
+
+- Cleaned and transformed raw datasets by handling missing values, duplicates, inconsistencies, and data-quality issues.
+- Performed exploratory data analysis and visualization to identify patterns, trends, and insights.
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern — Elevance Skills
+
+Worked on data preparation, exploratory analysis, visualization, KPI analysis, and interactive dashboard development using the **PlayStore Revenue Analytics** dataset.
+
+**Focus:** Python • Pandas • Data Cleaning • EDA • Visualization • Power BI • SQL
+
+---
+
+## 🎓 Education
+
+**KPR Institute of Engineering and Technology**  
+B.Tech — Artificial Intelligence & Machine Learning  
+2023 – Present | **CGPA: 7.3**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AakashBarnawal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashBarnawal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aakash-barnawal-66aa27289/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:barnawalaakash2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://aakashbarnawal.github.io/Portfolio-/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AakashBarnawal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 💡 "Building intelligent systems, one project at a time."
+
+⭐ Feel free to explore my repositories and connect with me!
